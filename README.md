@@ -23,4 +23,4 @@ Invite the discord bot to your server using the following link (replace `BOTCLIE
 https://discordapp.com/oauth2/authorize?client_id=BOTCLIENTIDHERE&scope=bot&permissions=0
 
 
-Credits- 1ttp(BrahmjotCodez)
+Credits- BrahmjotCodez(1ttp)
